@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "51798067207",
+    "project_id": "getx-fbac1",
+    "storage_bucket": "getx-fbac1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51798067207:android:150b767483a47e059602a2",
+        "android_client_info": {
+          "package_name": "com.example.mygetx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51798067207-g7vn81k2ffpb1klnr9dj18dqsskio4g1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mygetx",
+            "certificate_hash": "c1c5698e5f8df3b96928ef745709c9b8e97467d7"
+          }
+        },
+        {
+          "client_id": "51798067207-7eefp4h76p86fvpqupo4dv59thcigour.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf41jf9zYzW-83BmtBldAw-fi217qOHow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51798067207-7eefp4h76p86fvpqupo4dv59thcigour.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
